@@ -1,0 +1,9 @@
+# Other files and folders
+**/venv/
+**/v1.1/
+images.tfrecords
+**/lightning_logs/
+**/predictions
+**/tb_logs
+**/UNET/__pycache
+**/__pycache__/
