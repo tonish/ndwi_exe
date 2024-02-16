@@ -1,6 +1,9 @@
 This repo corrsponds to home assignment doc.
 
-0. run gsutil -m rsync -r gs://sen1floods11 to download the dataset
+0. cd into the repo folder and run:
+ gsutil -m rsync -r gs://sen1floods11 to download the dataset
+ The dataset folder (v1.1) should be inside the repo folder for paths compatability
+   
 1. To answer step 1: run q1.py -q <1:3> 
     you can select 1,2,3 to answer question 1,2,3 of step 1
 2. To answer step 2: run q2.py for the first part of the question and run q2.ipynb for the second part of the question
